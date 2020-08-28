@@ -1,0 +1,33 @@
+{
+  "name": "proyecto-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@saeris/vue-spinners": "^1.0.8",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "numeral": "^2.0.6",
+    "tailwindcss": "^1.1.2",
+    "vue": "^2.6.11",
+    "vue-chartkick": "^0.6.1",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@ianaya89/vue-cli-plugin-tailwind": "~1.1.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
